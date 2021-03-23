@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marcogigliarano
-- 👀 I’m interested in FrontEnd ecosystem
+- 👀 I’m interested in the FrontEnd ecosystem
 - 🌱 I’m currently learning how to scale an application
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 To reach me open a PR ;)
